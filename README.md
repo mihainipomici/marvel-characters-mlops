@@ -342,11 +342,11 @@ The project supports three environments with isolated resources:
 dev:
   catalog_name: mlops_dev
   schema_name: marvel_characters
-  
+
 acc:
   catalog_name: mlops_acc
   schema_name: marvel_characters
-  
+
 prd:
   catalog_name: mlops_prd
   schema_name: marvel_characters
