@@ -85,7 +85,6 @@ logs/
 output/
 outputs/
 checkpoints/
-notebooks/
 # MLflow
 mlruns/
 
